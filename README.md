@@ -13,73 +13,65 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Team](#team)
-3. [Gameplay](#gameplay)
-4. [Universe](#universe)
-5. [Release](#release)
-6. [Development](#development)
-7. [Special Thanks](#special-thanks)
-8. [Recommendations](#recommendations)
+3. [Game Premise](#gameplay)
+4. [Release](#release)
+5. [Development](#development)
+6. [Special Thanks](#special-thanks)
+7. [Recommendations](#recommendations)
 
 ---
 
 ## Introduction
-**[Project Name]** is a [genre of the game] developed by **[Team/Organization Name]** during **[timeframe]**.  
-This project was created as part of **[context, e.g., a school project, game jam, or indie initiative]**.  
-The development process included **[key phases, such as preproduction, production, etc.]**.
+**Memory Loop** is an escape game developed by students in their 3rd year of study at **L'École des Nouvelles Images** ,developed within a **[five week]** period of time.  
+This project was created as part of **their final project of the year, thus validating their bachelor's diploma**.  
 
 ---
 
 ## Team
-This game was brought to life by **[Team Name or "a group of X developers/artists"]**:
-- **[Name 1]**: [Role and contributions]
-- **[Name 2]**: [Role and contributions]
-- **[Name 3]**: [Role and contributions]
-- **[Name 4]**: [Role and contributions]
+This game was brought to life by **a group of talented developers and artists**:
+- **[Regina LUKOYANOVA](https://github.com/RLukoyanova)**: **Product Owner**, 3D Artist
+- **[Léna DE LUCA](https://github.com/Lenaynov)**: **Lead** Artist, 3D Artist
+- **[Sasha BILORE](https://github.com/SashaBilore)**: UI Designer, VFX Artist
+- **[Hugo BARON](https://github.com/Barnabe77)**: 2D Artist
+- **[Jerome DUPRET](https://github.com/jdupretENSI)**: **Lead** Developer, Integrator
+- **[Loan JOURDAN](https://github.com/Ritail)**: Developer
 
 ![Team](https://github.com/Ecole-des-Nouvelles-Images/Unity-Template/blob/main/MetaData/team-photo.png)
 
 ---
 
-## Gameplay
-[Describe the core gameplay loop, mechanics, and objectives of the game. Include details like number of players, perspective, and unique gameplay features.]
+## Game Premise
+Memory is a single player VR escape game where you have to explore and interact with your environment to solve puzzles gaining insite on a tragedy that had occured in your past.
 
-### Phase 1: [Phase Name]
-[Describe the first phase of gameplay, objectives, and player actions.]
+The game is seperated into 3 parts, each delving deeper into the main character's psyche.
 
-### Phase 2: [Phase Name]
-[Describe the second phase, any escalating challenges, and goals.]
+Will you accept the truth? Or be thrown into a **Memory Loop**?
 
 ![Gameplay Screenshot](https://github.com/Ecole-des-Nouvelles-Images/Unity-Template/blob/main/MetaData/gameplay-screenshot.png)
 
 ---
 
-## Universe
-[Provide a brief story or lore for the game world, highlighting key characters, locations, or events. Explain how the story ties into the gameplay.]
-
----
-
 ## Release
-[Provide details about the platform, availability, and installation instructions. Mention if the game is available on PC, console, or mobile, and provide links to download or install.]
-
-This game supports **[platform requirements, e.g., Android 5.1+]**.
+Feel free to test out the game here **[dowload]https://github.com/Ecole-des-Nouvelles-Images/2026-Escape-VR-Regina/releases**, as of now only the APK is available.
 
 ---
 
 ## Development
-This project is currently **[status: finished, in development, etc.]**. Future updates might include **[examples of planned features or fixes]**.  
+This project is currently **not in active development** but we may come back from time to time to add to the project.  
 
 If you encounter any bugs or have suggestions, please open an **[issue ticket](https://github.com/Ecole-des-Nouvelles-Images/Unity-Template/issues/new)**.
 
 ---
 
 ## Special Thanks
-We would like to thank:
-- **[Name 1]**: [Contribution, e.g., mentorship, inspiration]
-- **[Name 2]**: [Contribution]
-- **[Name 3]**: [Contribution]
+We would like to thank our **university** and our **teachers** for their help and support during this project and the shcool year:  
+- **[L'École des Nouvelles Images](https://www.nouvellesimages.xyz/)**
+- **[Frédéric BAST](https://github.com/FBast)** - *Dev Support*
+- **[Yvan BLADET](https://www.linkedin.com/in/yvan-bladet-676924261/)** - *Dev / Integration Support*
+- **[Jerome CROS](https://fr.linkedin.com/in/crospro)** - *Artist Support*
+- **[Tommy HA PHUOC](https://fr.linkedin.com/in/tommyhaphuoc/en)** - *Gameplay Support*
 
 ---
 
 ## Recommendations
-For the best experience, we recommend playing with **[optimal player setup, equipment, or difficulty settings]**.  
-[Additional recommendations, such as tutorials or preparation tips.]
+For the best experience, we recommend playing on a **Meta Quest 3**.
