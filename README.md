@@ -35,8 +35,6 @@ This game was brought to life by **a group of talented developers and artists**:
 - **[Jerome DUPRET](https://github.com/jdupretENSI)**: **Lead** Developer, Integrator
 - **[Loan JOURDAN](https://github.com/Ritail)**: Developer
 
-![Team](https://github.com/Ecole-des-Nouvelles-Images/Unity-Template/blob/main/MetaData/team-photo.png)
-
 ---
 
 ## Premise
