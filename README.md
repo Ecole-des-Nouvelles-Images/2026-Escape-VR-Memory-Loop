@@ -11,7 +11,7 @@
 
 <img width="512" height="512" alt="LOGO_FINAL_ML" src="https://github.com/user-attachments/assets/a86bc0e8-9990-4872-a6ed-d1bace827b31" />
 
-**🌍 Language / Langue :** 🇬🇧 **English** · [🇫🇷 Français](README.fr.md)
+**🌍 Language / Langue :** 🇬🇧 **English** · [🇫🇷 Français](README_fr.md)
 
 </div>
 
